@@ -1,2 +1,2 @@
-# MIMPS-assembly-code2
-MimpsProgram2
+# MIPS-assembly-code2
+MipsProgram2
